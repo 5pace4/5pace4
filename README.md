@@ -79,12 +79,13 @@ These are the tools and languages that I have worked with and have experience ab
 
 <!-- GitHub Stats and Languages Section -->
 <p align="center">
-  <a href="https://github.com/5pace4/github-readme-stats">
-    <img alt="5pace4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=5pace4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" height="20%">
-  </a>
-  <a href="https://github.com/5pace4/github-readme-stats">
-    <img alt="5pace4's Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=5pace4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%" height="20%">
-  </a>
+ <a href="https://github.com/5pace4/github-readme-stats">
+  <img alt="5pace4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=5pace4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" height="200px">
+</a>
+<a href="https://github.com/5pace4/github-readme-stats">
+  <img alt="5pace4's Langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=5pace4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%" height="200px">
+</a>
+
 </p>
 
 <!-- Connect with Me Section -->
