@@ -34,7 +34,7 @@ Hi there! I'm Tofayel Ahmmed Babu, an undergraduate Computer Science student at 
 
 <!-- Coding -->
 <p align="left">
-  💻 Proficient in languages like C, C++, Javascript and Python, I enjoy diving into the world of algorithms and problem-solving. Visit my <a href="https://tofayelahmmedbabu.vercel.app/" text-decoration: none>Portfolio</a> to more about my Competetive Programming & Problem Solving journey.
+  💻 Proficient in languages like C, C++, Javascript and Python, I enjoy diving into the world of algorithms and problem-solving. Visit my <a href="https://tofayelahmmedbabu.vercel.app/" text-decoration: none>Portfolio</a> to know more about my Competetive Programming & Problem Solving journey.
 </p>
 
 <!-- Web Development Section -->
