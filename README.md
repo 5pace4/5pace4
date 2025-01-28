@@ -79,7 +79,7 @@ Hi there! I'm **Tofayel Ahmmed Babu**, an undergraduate Computer Science student
  
 - **[Grey Matter](https://github.com/5pace4/Grey-Matter)**
   Grey Matter is a user-friendly platform connecting researchers and students to top Bangladeshi researchers and academic journals, with insights aligned to key metrics and SDGs.
-  - 🌐 Built with: `ReactJs`, `Tailwind CSS`, `nodejs`, `expressjs`, `Blender`
+  - 🌐 Built with: `ReactJs`, `Tailwind CSS`, `nodejs`, `expressjs`
   - 🔗 Visit: [grey-matter-omega.vercel.app](https://grey-matter-omega.vercel.app/)
 
 ---
