@@ -46,8 +46,8 @@ Hi there! I'm **Tofayel Ahmmed Babu**, an undergraduate Computer Science student
 - 🏅 **CUET Intra University Junior Programming Contest**  
   Achieved **13th place** in the contest organized by **CUET Computer Club** | **2021**
 
-- 🔢 **1000+ Problems Solved**  
-  Solved over **1000+ problems** on various online judges (OJ), including **LeetCode**, **Codeforces**, and others.
+- 🔢 **1200+ Problems Solved**  
+  Solved over **1200+ problems** on various online judges (OJ), including **LeetCode**, **Codeforces**, and others.
 
 - 🎓 **CUET Technical Scholarships**  
   Awarded the **CUET Technical Scholarship** for exceptional academic merit in every semester | **2020 – Present**
