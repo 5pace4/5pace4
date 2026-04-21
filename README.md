@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHH5pdYaC7FJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704006454597?e=1743638400&v=beta&t=-uQmXbYB7e21S32BXfavBcbbfnBTDD2VgPRX1O1YIJk" alt="Banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1283544959835832320/1496015326406639706/Black_and_White_Minimalist_Photography_LinkedIn_Banner.png?ex=69e85858&is=69e706d8&hm=71e4763bd9563a0a5de0f477fb399233c262f2cbadc062fdff34fdf2b8d1599b" alt="Banner" width="100%">
 </p>
 
 <!-- Profile Picture and Name -->
@@ -194,7 +194,7 @@ Hi there! I'm **Tofayel Ahmmed Babu**. I am a Software Engineer. My primary inte
 ---
 
 ### 📫 Contact Me
-- ✉️ Email: [tofayelahmmedbabu@gmail.com](mailto:tofayelahmmedbabu@gmail.com)
+- ✉️ Email: [tofayelahmmedbabu02@gmail.com](mailto:tofayelahmmedbabu02@gmail.com)
 - 🌐 Website: [https://tofayelahmmedbabu.vercel.app](https://tofayelahmmedbabu.vercel.app)
 
 ---
