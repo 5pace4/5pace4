@@ -19,10 +19,12 @@
 <!-- About Me Section -->
 ### 🧑‍💻 About Me
 
-Hi there! I'm **Tofayel Ahmmed Babu**, an undergraduate Computer Science student at **Chittagong University of Engineering and Technology (CUET)**. I'm passionate about:
-- Solving challenging **algorithmic problems**.
-- Exploring the world of **Machine Learning and Artificial Intelligence**.
-- Building dynamic and innovative web applications.
+Hi there! I'm **Tofayel Ahmmed Babu**. I am a Software Engineer. My primary interests lie at the intersection of **artificial intelligence, computer security, and large-scale software systems,** where I am particularly drawn to challenges that require combining theoretical insight with real-world applicability.
+
+#### 🔍 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Computer Security & Privacy
+- Distributed and Large-Scale Systems
 
 ---
  <!-- 
