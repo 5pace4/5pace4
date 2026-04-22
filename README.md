@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1283544959835832320/1496015326406639706/Black_and_White_Minimalist_Photography_LinkedIn_Banner.png?ex=69e85858&is=69e706d8&hm=71e4763bd9563a0a5de0f477fb399233c262f2cbadc062fdff34fdf2b8d1599b" alt="Banner" width="100%">
-</p>
+![Banner](https://drive.google.com/uc?export=view&id=1P-OCDDhQ53lnyYqm1tSeb8qMqq2hbC-T)
 
 <!-- Profile Picture and Name -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tofayel Ahmmed Babu (5pace4)</h1>
